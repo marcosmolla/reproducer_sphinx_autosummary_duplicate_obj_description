@@ -1,0 +1,6 @@
+.idea/
+.venv/
+docs/_build/
+docs/generated/
+.DS_Store
+__pycache__/
